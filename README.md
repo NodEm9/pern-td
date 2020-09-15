@@ -1,2 +1,2 @@
 # pern-td
- A simple Todo List
+ A simple PERN Todo List
